@@ -8,6 +8,14 @@ Meu foco é o desenvolvimento .NET/C# e Full Stack. Crio aplicações e ferramen
 
 ## Projetos em destaque
 
+### [JAPagination](https://www.nuget.org/packages/JAPagination)
+
+Biblioteca .NET para paginação de coleções e consultas LINQ síncronas, com estruturas imutáveis e suporte a fatias sem contagem total.
+
+- Núcleo independente de Entity Framework Core e frameworks web.
+- Pacote complementar [JAPagination.EntityFrameworkCore](https://www.nuget.org/packages/JAPagination.EntityFrameworkCore) para paginação assíncrona com EF Core, preservando consultas no servidor e a configuração de tracking do consumidor.
+- Pacotes disponíveis no **NuGet**.
+
 ### [ProfJa](https://github.com/joseaugusto10/profja-web)
 
 Aplicação web para organizar a rotina de professores, com lançamento de aulas, histórico e agenda de compromissos.
@@ -35,6 +43,7 @@ Tema para o Visual Studio Code inspirado no Visual Studio, com editor escuro, de
 
 | Área | Tecnologias |
 | --- | --- |
+| Bibliotecas .NET | C#, .NET, LINQ, Entity Framework Core |
 | Interface web | React, TypeScript, HTML e CSS |
 | Componentes e estilos | Tailwind CSS, shadcn/Base UI |
 | Formulários e dados | React Hook Form, Zod, TanStack Query |
